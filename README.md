@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/Vue.js.svg" /
+ 
 ### Hi there 👋, my name is Nanda Kishor
-#### I am  
+#### I am UX/UI Designer and Frontend Developer  
 ![I am UX/UI Designer and Frontend Developer](https://github.com/Nanda777-max/Nanda777-max/blob/main/My%20Post.jpg)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
