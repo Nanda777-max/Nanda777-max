@@ -98,12 +98,6 @@ Small API + front-end projects.
 ---
  
 
-![Nandakishor's github stats](https://github-readme-stats.vercel.app/api?username=Nanda777-max&show_icons=true&theme=radical)
-
  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Nanda777-max)  
-
-![Profile views](https://gpvc.arturio.dev/Nanda777-max)  
 
  
